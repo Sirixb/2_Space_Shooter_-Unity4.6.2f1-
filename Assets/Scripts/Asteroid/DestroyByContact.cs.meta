@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 88f96af38df0e3e4d9efdfc735e4163a
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - explosion: {instanceID: 0}
+  - playerExplosion: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
